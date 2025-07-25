@@ -76,7 +76,7 @@
 -->
 ## 📫 Контакты
 - Email: sergey.dubinin.work@gmail.com
-- Telegram: [@sergeydubinin](https://t.me/arcusss)
+- Telegram: [@arcusss](https://t.me/arcusss)
 - LinkedIn: [linkedin.com/in/sergey-dubinin-work](https://linkedin.com/in/sergey-dubinin-work)
 
 > 🧠 Всегда открыт к новым проектам и коллаборациям!
