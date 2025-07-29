@@ -62,6 +62,13 @@
   <img src="images/dbandbrokers/microsoftsqlserver-original.svg" alt="Microsoft SQL" title="Microsoft SQL" height="48"/>
   <img src="images/dbandbrokers/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" height="48"/>
 </p>
+<!--
+Добавить ещё каким то способом дополнительные библиотеки, у которых нет картинок
+Owner
+jdbc
++ Пройтись по всем проектам, посмотреть, какие библиотеки там использованы
+-->
+
 
 ## 📌 Мои проекты
 - 🔹 **[BookLibrary](https://github.com/sergey-dubinin-work/qaguru_basic_homeTask_custom_Spring_API_Service_BookLibrary)** — pet-проект на Spring Boot:\
