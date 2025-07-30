@@ -25,6 +25,7 @@
     <img src="images/frameworks/selenide-logo-big.png" alt="Selenide" title="Selenide" height="48"/>
     <img src="images/frameworks/playwright-logo.svg" alt="Playwright" title="Playwright" height="48"/>
     <img src="images/frameworks/appium.svg" alt="Appium" title="Appium" height="48"/>
+    <img src="images/frameworks/WireMock_Logo.svg" alt="WireMock" title="Appium" height="48"/>
 </p>
 
 ### 🔹 Инфраструктура, CI/CD и DevOps
@@ -62,6 +63,10 @@
   <img src="images/dbandbrokers/microsoftsqlserver-original.svg" alt="Microsoft SQL" title="Microsoft SQL" height="48"/>
   <img src="images/dbandbrokers/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" height="48"/>
 </p>
+<!--
+Icons here:
+https://github.com/devicons/devicon/tree/master/icons
+-->
 <!--
 Добавить ещё каким то способом дополнительные библиотеки, у которых нет картинок
 Owner
