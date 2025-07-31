@@ -100,6 +100,10 @@
   <sub><b>Selenoid</b></sub>
 </span>
 
+<span style="display:inline-block; text-align:center; margin: 5px;">
+  <img src="images/infrastructure/TestContainers.png" alt="TestContainers" title="TestContainers" height="48"/><br>
+  <sub><b>TestContainers</b></sub>
+</span>
 
 ### 🔹 Инструменты и IDE
 
