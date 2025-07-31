@@ -11,15 +11,18 @@
 
 ### 🔹 Языки и библиотеки
 
-<span style="display:inline-block; text-align:center; margin: 5px;">
-  <img src="images/languages/icons8-java-48.png" alt="Java" title="Java" height="48"/><br>
-  <sub><b>Java</b></sub>
-</span>
-
-<span style="display:inline-block; text-align:center; margin: 5px;">
-  <img src="images/languages/lombok.png" alt="Lombok" title="Lombok" height="48"/><br>
-  <sub><b>Lombok</b></sub>
-</span>
+<table border="0" style="border: none;">
+  <tr>
+    <td style="text-align: center; padding: 5px; border: none;">
+      <img src="images/languages/icons8-java-48.png" alt="Java" title="Java" height="48"/><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td style="text-align: center; padding: 5px; border: none;">
+      <img src="images/languages/lombok.png" alt="Lombok" title="Lombok" height="48"/><br>
+      <sub><b>Lombok</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🔹 Фреймворки и тестирование
 
