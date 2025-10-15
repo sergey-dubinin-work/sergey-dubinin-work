@@ -63,6 +63,7 @@
   <img src="images/dbandbrokers/sqlite-original.svg" alt="SQLite" title="SQLite" height="48"/>
   <img src="images/dbandbrokers/microsoftsqlserver-original.svg" alt="Microsoft SQL" title="Microsoft SQL" height="48"/>
   <img src="images/dbandbrokers/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" height="48"/>
+  <img src="images/dbandbrokers/rabbitmq-original.svg" alt="Redis" title="Redis" height="48"/>
 </p>
 <!--
 Icons here:
